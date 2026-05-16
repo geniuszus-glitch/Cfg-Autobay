@@ -1,0 +1,402 @@
+{
+  "items": {
+    "Зелье Палладина": {
+      "enabled": false,
+      "price": 700000
+    },
+    "Талисман Карателя": {
+      "enabled": true,
+      "price": 72500000
+    },
+    "Череп визер-скелета": {
+      "enabled": false,
+      "price": 372240
+    },
+    "Нерушимые элитры": {
+      "enabled": true,
+      "price": 0
+    },
+    "Голова дракона": {
+      "enabled": true,
+      "price": 520000
+    },
+    "Снотворное": {
+      "enabled": true,
+      "price": 1550000
+    },
+    "Таер вайт": {
+      "enabled": false,
+      "price": 0
+    },
+    "Ботинки Крушителя": {
+      "enabled": false,
+      "price": 3300000
+    },
+    "Древние обломки": {
+      "enabled": false,
+      "price": 19095
+    },
+    "Отмычка к ресурсам": {
+      "enabled": true,
+      "price": 200000
+    },
+    "Спавнер": {
+      "enabled": true,
+      "price": 31200000
+    },
+    "Снежок заморозка": {
+      "enabled": false,
+      "price": 56453
+    },
+    "АирДроп": {
+      "enabled": true,
+      "price": 8000000
+    },
+    "Сфера Ареса": {
+      "enabled": true,
+      "price": 3100000
+    },
+    "Шлем Крушителя": {
+      "enabled": false,
+      "price": 4824000
+    },
+    "Нагрудник Крушителя": {
+      "enabled": false,
+      "price": 3500000
+    },
+    "Богатый мист": {
+      "enabled": false,
+      "price": 11040000
+    },
+    "Яйцо призыва зомби-крестьянина": {
+      "enabled": false,
+      "price": 74500
+    },
+    "Талисман Ярости": {
+      "enabled": true,
+      "price": 7000000
+    },
+    "Проклятая душа": {
+      "enabled": false,
+      "price": 0
+    },
+    "Трапка": {
+      "enabled": true,
+      "price": 450000
+    },
+    "Алтарь Нежити": {
+      "enabled": true,
+      "price": 850000
+    },
+    "Блок Чанкер": {
+      "enabled": true,
+      "price": 7100000
+    },
+    "Золотое яблоко": {
+      "enabled": false,
+      "price": 25000
+    },
+    "Меч Крушителя": {
+      "enabled": false,
+      "price": 10530000
+    },
+    "Модификатор починки": {
+      "enabled": true,
+      "price": 1200000
+    },
+    "Булава Крушителя": {
+      "enabled": true,
+      "price": 16500000
+    },
+    "Незеритовый слиток": {
+      "enabled": true,
+      "price": 300000
+    },
+    "Зелье Ассасина": {
+      "enabled": false,
+      "price": 650000
+    },
+    "Талисман Тирана": {
+      "enabled": false,
+      "price": 154968
+    },
+    "Яйцо призыва стража": {
+      "enabled": false,
+      "price": 809999
+    },
+    "Яйцо призыва вихря": {
+      "enabled": true,
+      "price": 2000000
+    },
+    "Сфера Икара": {
+      "enabled": false,
+      "price": 0
+    },
+    "Маяк": {
+      "enabled": true,
+      "price": 900000
+    },
+    "Книга починка": {
+      "enabled": false,
+      "price": 4000000
+    },
+    "Регион 25x25": {
+      "enabled": true,
+      "price": 95000000
+    },
+    "Зелье гнева": {
+      "enabled": true,
+      "price": 7500000
+    },
+    "Сфера Гидры": {
+      "enabled": true,
+      "price": 6200000
+    },
+    "Ключ от кейса с Привилег": {
+      "enabled": true,
+      "price": 115000000
+    },
+    "Легендарный мист": {
+      "enabled": false,
+      "price": 0
+    },
+    "Зловещий ключ": {
+      "enabled": false,
+      "price": 0
+    },
+    "Изумрудная руда": {
+      "enabled": false,
+      "price": 190400
+    },
+    "Яйцо призыва эндермена": {
+      "enabled": true,
+      "price": 5999999
+    },
+    "Сфера Эрида": {
+      "enabled": false,
+      "price": 0
+    },
+    "Яйцо призыва крестьянина": {
+      "enabled": true,
+      "price": 350000
+    },
+    "Талисман Раздора": {
+      "enabled": true,
+      "price": 1500000
+    },
+    "Сфера Сатира": {
+      "enabled": false,
+      "price": 0
+    },
+    "Талисман Крушителя": {
+      "enabled": true,
+      "price": 78500000
+    },
+    "Трезубец Крушителя": {
+      "enabled": false,
+      "price": 2309999
+    },
+    "Божья аура": {
+      "enabled": true,
+      "price": 500000
+    },
+    "Драконий скин": {
+      "enabled": true,
+      "price": 600000
+    },
+    "Сфера Титана": {
+      "enabled": true,
+      "price": 20000000
+    },
+    "Талисман Вихря": {
+      "enabled": true,
+      "price": 2600000
+    },
+    "Таер блэк": {
+      "enabled": false,
+      "price": 0
+    },
+    "Обычный мист": {
+      "enabled": false,
+      "price": 8256000
+    },
+    "Кирка Крушителя": {
+      "enabled": false,
+      "price": 7149999
+    },
+    "Голова пиглина": {
+      "enabled": false,
+      "price": 0
+    },
+    "Арбалет Крушителя": {
+      "enabled": false,
+      "price": 0
+    },
+    "Блок Дамагер": {
+      "enabled": true,
+      "price": 14700000
+    },
+    "Сфера Хаоса": {
+      "enabled": true,
+      "price": 2400000
+    },
+    "Святая вода": {
+      "enabled": false,
+      "price": 300000
+    },
+    "Ключ от кейса с Токенами": {
+      "enabled": true,
+      "price": 10000000
+    },
+    "Серебро": {
+      "enabled": true,
+      "price": 9000
+    },
+    "Отмычка к сферам": {
+      "enabled": true,
+      "price": 2300000
+    },
+    "Незеритовый лом": {
+      "enabled": false,
+      "price": 0
+    },
+    "Модификатор полёта": {
+      "enabled": true,
+      "price": 8500000
+    },
+    "Зачарованное золотое яб": {
+      "enabled": true,
+      "price": 115000
+    },
+    "Шалкер": {
+      "enabled": true,
+      "price": 0
+    },
+    "Талисман Мрака": {
+      "enabled": false,
+      "price": 0
+    },
+    "Сфера Бестии": {
+      "enabled": true,
+      "price": 2500000
+    },
+    "Талисман Демона": {
+      "enabled": false,
+      "price": 237600
+    },
+    "Яйцо призыва хранителя": {
+      "enabled": true,
+      "price": 3000000
+    },
+    "Штаны Крушителя": {
+      "enabled": false,
+      "price": 2550000
+    },
+    "Неизбежный скин": {
+      "enabled": false,
+      "price": 0
+    },
+    "Божье касание": {
+      "enabled": true,
+      "price": 21500000
+    },
+    "Мощный удар": {
+      "enabled": false,
+      "price": 0
+    },
+    "Голова": {
+      "enabled": false,
+      "price": 0
+    }
+  },
+  "guiSettings": {
+    "percent_Арбалет Крушителя": 75,
+    "percent_Сфера Эрида": 75,
+    "percent_Снежок заморозка": 73,
+    "percent_Модификатор полёта": 74,
+    "percent_Неизбежный скин": 75,
+    "percent_Талисман Вихря": 75,
+    "percent_Штаны Крушителя": 75,
+    "percent_Яйцо призыва вихря": 52,
+    "percent_Ключ от кейса с Токенами": 71,
+    "Auction Helper": true,
+    "percent_Ключ от кейса с Привилег": 85,
+    "percent_Кирка Крушителя": 55,
+    "percent_Голова": 75,
+    "percent_Талисман Крушителя": 87,
+    "percent_Сфера Гидры": 75,
+    "percent_Яйцо призыва зомби-крестьянина": 50,
+    "percent_Легендарный мист": 75,
+    "percent_Серебро": 43,
+    "percent_Зелье гнева": 75,
+    "percent_Голова дракона": 78,
+    "percent_Отмычка к ресурсам": 47,
+    "percent_Сфера Бестии": 70,
+    "percent_Трезубец Крушителя": 77,
+    "Refresh Delay": "150",
+    "percent_Талисман Ярости": 72,
+    "percent_Яйцо призыва хранителя": 43,
+    "percent_Талисман Демона": 48,
+    "percent_Спавнер": 82,
+    "percent_Шлем Крушителя": 72,
+    "Search Item": {
+      "bind": -96
+    },
+    "percent_Алтарь Нежити": 75,
+    "percent_Булава Крушителя": 77,
+    "percent_Нерушимые элитры": 75,
+    "percent_Святая вода": 75,
+    "percent_Книга починка": 75,
+    "Name Protect": true,
+    "percent_Голова пиглина": 75,
+    "percent_Незеритовый лом": 75,
+    "percent_Зелье Ассасина": 75,
+    "percent_Сфера Хаоса": 72,
+    "percent_Зловещий ключ": 75,
+    "percent_Зачарованное золотое яб": 66,
+    "percent_Обычный мист": 43,
+    "percent_Проклятая душа": 75,
+    "percent_Сфера Икара": 75,
+    "percent_Талисман Мрака": 63,
+    "percent_Золотое яблоко": 43,
+    "percent_Талисман Раздора": 73,
+    "percent_Сфера Ареса": 70,
+    "percent_Драконий скин": 70,
+    "percent_Регион 25x25": 63,
+    "percent_Древние обломки": 67,
+    "percent_Мощный удар": 75,
+    "percent_Яйцо призыва эндермена": 75,
+    "Auto Sell": false,
+    "percent_Меч Крушителя": 81,
+    "percent_Череп визер-скелета": 47,
+    "percent_Модификатор починки": 71,
+    "AutoBuy Categories": false,
+    "percent_Нагрудник Крушителя": 70,
+    "percent_Талисман Тирана": 45,
+    "percent_Таер вайт": 75,
+    "percent_Ботинки Крушителя": 66,
+    "percent_Яйцо призыва стража": 45,
+    "percent_Маяк": 75,
+    "percent_Зелье Палладина": 75,
+    "percent_Блок Дамагер": 74,
+    "Auto Setup": {
+      "value": false,
+      "bind": 267
+    },
+    "percent_Блок Чанкер": 71,
+    "percent_Сфера Титана": 81,
+    "percent_Снотворное": 75,
+    "percent_Таер блэк": 75,
+    "percent_Изумрудная руда": 56,
+    "percent_Отмычка к сферам": 75,
+    "percent_Сфера Сатира": 75,
+    "percent_Божья аура": 72,
+    "percent_Божье касание": 81,
+    "percent_Яйцо призыва крестьянина": 44,
+    "percent_АирДроп": 66,
+    "percent_Трапка": 77,
+    "percent_Незеритовый слиток": 65,
+    "percent_Богатый мист": 48,
+    "percent_Талисман Карателя": 84
+  }
+}
